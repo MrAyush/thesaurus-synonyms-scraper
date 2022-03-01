@@ -1,0 +1,4 @@
+node_modules
+dist
+synonyms.json
+rejected_words.json
