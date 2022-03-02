@@ -1,4 +1,4 @@
-# thesaurus-synonyms-scaper
+# thesaurus-synonyms-scraper
 -------------------------------
 
 A simple example to quickly scrape multiple synonyms from [thesaurus](https://www.thesaurus.com/).
